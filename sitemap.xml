@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/discord/</loc>
+    <loc>rudra2002.github.io/discord/</loc>
     <lastmod>2022-11-25T21:50:06+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>rudra2002.github.io/posts/</loc>
     <lastmod>2022-11-25T21:47:03+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>rudra2002.github.io/</loc>
     <lastmod>2022-11-25T21:47:03+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/test/</loc>
+    <loc>rudra2002.github.io/posts/test/</loc>
     <lastmod>2022-11-25T21:47:03+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>rudra2002.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>rudra2002.github.io/search/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>rudra2002.github.io/tags/</loc>
   </url>
 </urlset>
