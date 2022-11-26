@@ -17,7 +17,7 @@
       <pubDate>Sat, 26 Nov 2022 03:21:05 +0600</pubDate>
       
       <guid>https://anirudhya.com/posts/github-token/</guid>
-      <description>This is a tutorial how to add personal access token from github This will be done in 2 steps: Create a access token. Add the token to your git client. Step 1 [Creating github token]: Go to your github account settings. Go to Developer Setting at the bottom. Go to Personal Access token and create a Tokens(classic) Fill the information and copy the token The token will be like this ghp_JCEAUrOjKjdicbjshrv50Dasdfkv Step 2 [Adding the token to your client] For Windows: Go to Credential Manager from Control Panel &amp;gt; Windows Credentials &amp;gt; find git:https://github.</description>
+      <description>This is a tutorial how to create personal access token from github and configure your github client to use it. This will be done in 2 steps: Create a access token. Add the token to your git client. Step 1 [Creating github token]: Go to your github account settings. Go to Developer Setting at the bottom. Go to Personal Access token and create a Tokens(classic) Fill the information and copy the token The token will be like this ghp_JCEAUrOjKjdicbjshrv50Dasdfkv Step 2 [Adding the token to your client] For Windows: Go to Credential Manager from Control Panel &amp;gt; Windows Credentials &amp;gt; find git:https://github.</description>
     </item>
     
     <item>
