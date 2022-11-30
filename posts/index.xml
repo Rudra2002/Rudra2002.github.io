@@ -12,12 +12,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Nov 2022 13:13:54 +0600</lastBuildDate><atom:link href="https://anirudhya.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Installation of Docker and Portainer For the First Time</title>
+      <title>Installation of Docker and Portainer</title>
       <link>https://anirudhya.com/posts/portainer/</link>
       <pubDate>Wed, 30 Nov 2022 13:13:54 +0600</pubDate>
       
       <guid>https://anirudhya.com/posts/portainer/</guid>
-      <description>In this post I will show how to install docker and portainer for the first time in a linux distro.</description>
+      <description>In this post I will show how to install docker and portainer in a linux distro.</description>
     </item>
     
     <item>
